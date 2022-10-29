@@ -1,3 +1,1 @@
-## The World Of String Function.
-
-**Learning mysql**
+## Learning mysql
